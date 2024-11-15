@@ -1,4 +1,4 @@
-        <h2 align="left">Hi! My name is Suryakumar Hariharan and I'm a System and Control Engineer, from Eindhoven NL</h2>
+<h2 align="left">Hi! My name is Suryakumar Hariharan and I'm a System and Control Engineer, from Eindhoven NL</h2>
 
 
 <div align="center">
